@@ -8,7 +8,10 @@ Welcome to **Pyintel**, the open-source organization developing advanced AI harn
 
 | Repository | Category | Description |
 | :--- | :--- | :--- |
+| 🧠 **[pyintel-mem](https://github.com/Pyintel/pyintel-mem)** | **Systems AI** | Single-file binary vector (`SQ8`/`BQ1` HNSW), Okapi BM25 & temporal knowledge graph memory (`.pmem`). |
+| 🌌 **[pyintel-lux](https://github.com/Pyintel/pyintel-lux)** | **Telemetry** | Open 14-byte zero-copy binary telemetry & multi-bearer P2P mesh standard for bare-metal MCUs. |
 | ⚡ **[apex-arc](https://github.com/Pyintel/apex-arc)** | **Core Harness** | Autonomous AI agent & terminal UI harness for software, robotics, and hardware engineering. |
+| 🌲 **[apex-studio](https://github.com/Pyintel/apex-studio)** | **Automation** | Visual hardware control studio and Lux binary telemetry ingestion engine. |
 | 🔌 **[open-board-registry](https://github.com/Pyintel/open-board-registry)** | **Hardware** | Pre-indexed specification database for 1,700+ microcontroller boards. |
 | 🛠️ **[open-hardware-toolchain](https://github.com/Pyintel/open-hardware-toolchain)** | **Hardware** | Flasher (`esptool`/`picotool`), live serial monitor, pinout inspector & MicroPython REPL. |
 | 🤖 **[open-robotics-simulators](https://github.com/Pyintel/open-robotics-simulators)** | **Robotics** | ROS 2 graph inspector, URDF/SDF kinematics parsers & MuJoCo/PyBullet simulation. |
